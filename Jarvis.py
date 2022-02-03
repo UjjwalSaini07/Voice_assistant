@@ -198,7 +198,7 @@ def play():
             var.set("Opening Your Git Hub Account")
             window.update()
             speak("Opening Your Git Hub Account")
-            webbrowser.open("https://github.com/Ujjwal2003saini")
+            webbrowser.open("https://github.com/UjjwalSaini07")
 
         elif "in browser" in query:
             var.set("Opening Your Command in Browser")
