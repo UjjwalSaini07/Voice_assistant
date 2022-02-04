@@ -1,0 +1,24 @@
+1) Open youtube - for Youtube
+2) Open Google - for google
+3) wait or stop - for waiting jarvis for 1 min
+4) in Brower - Read any article something in brower
+5) hello - For intro
+6) time - for Current Time  
+7) today date or the date - for today day
+8) thank you - For Thankful to him
+9) can you do for me - taking his opinion 
+10) old are you - for telling his age by jarvis
+11) open media player - for media player in your system
+12) your name - Name of Jarvis
+13) who creates you or your Boss - Knowing the name of the boss of Jarvis
+14) say hello - To saying Hello
+15) open my github account - Open Github Page
+16) open pycharm - for pycharm
+17) open python - For python 
+18) play - Play any video on youtube
+19) my name is - scipt your name in device
+20) Open w3school - for w3school
+21) Open whatsapp - for whatsapp
+22) Open twitter - for twitter
+23) Open gmail - for gmail
+24)your hobby - knowning hobby of jarvis
