@@ -124,4 +124,5 @@ secs.pack(side=LEFT)
 
 Button(root,text="Set Alarm",font=("Helvetica 15"),command=Threading).pack(pady=20)
 # Execute Tkinter
+#root.mainloop()
 root.mainloop()
